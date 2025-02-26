@@ -1,0 +1,26 @@
+# Operation Bara is Worthless
+
+Domain : www.chrishanibaragwanathhospital.co.za
+
+IP : 159.69.26.89
+PORT     STATE    SERVICE     VERSION
+7/tcp    filtered echo
+19/tcp   filtered chargen
+22/tcp   open     ssh         OpenSSH 8.2p1 (protocol 2.0)
+25/tcp   open     smtp        Postfix smtpd
+80/tcp   open     http        nginx
+443/tcp  open     ssl/http    nginx
+587/tcp  open     smtp        Postfix smtpd
+993/tcp  open     imaps?
+1061/tcp filtered kiosk
+1096/tcp filtered cnrprotocol
+1900/tcp filtered upnp
+2000/tcp open     tcpwrapped
+3306/tcp open     mysql       MySQL (unauthorized)
+5060/tcp open     tcpwrapped
+8008/tcp open     http?
+8291/tcp filtered unknown
+Service Info: Host:  chrishanibaragwanathhospital.co.za
+ 
+Recon:  
+

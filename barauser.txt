@@ -1,0 +1,229 @@
+User/Persons Recon:
+
+## Contact.html
+Phone Numbers, Email Addresses & Fax Numbers
+  CEO
+  Acting ​Dr Richards Lebethe
+  011 933 0967
+  011 938 8161
+  goodhope.maseko@gauteng.gov.za
+   
+  Sec/PA: Thabile Ndlovu
+  011 933 9145
+  086 558 5931
+  thabile.ndlovu@gauteng.gov.za
+   
+  Clinical Managers
+  Dr N Soma
+  011 933 8154
+  Nita.Soma@gauteng.gov.za
+   
+  Dr S Mankupane
+  011 933 9154
+  mankupane2012@gmail.com
+  
+  Dr K Mustafa
+  011 933 9154
+  kmdrmustafa747@gmail.com
+   
+  Dr Mrs S Naik
+  011 933 6114
+  premila.naik@gauteng.gov.za
+   
+  Sec/PA: Thabile Ndlovu
+  ​011 933 9154
+  thabile.ndlovu@gauteng.gov.za
+   
+  Nursing Manager
+  Mrs D F Ngidi
+  011 933 0134
+  tDuduN3@gauteng.gov.za
+   
+  Sec/PA: Babra Manganyi
+  011 933 0134
+  011 488 3739
+  tbabra.maganyi@gauteng.gov.za
+ 
+ 
+## Random Profiles With names and surnames but also links direactly to uploads folder and image folders   
+ 
+
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30612/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30612/nurse_profile_thumbnail_foto_1605012635.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30610/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30610/nurse_profile_thumbnail_foto_1605010009.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30586/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30586/nurse_profile_thumbnail_foto_1604857227.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30575/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30575/nurse_profile_thumbnail_foto_1604771860.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30552/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30552/nurse_profile_thumbnail_foto_1604614059.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30546/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30546/nurse_profile_thumbnail_foto_1604597194.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30535/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30535/nurse_profile_thumbnail_foto_1604572278.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30527/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30527/nurse_profile_thumbnail_foto_1604508809.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30503/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30503/nurse_profile_thumbnail_foto_1604374918.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30454/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30454/nurse_profile_thumbnail_foto_1604057384.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30420/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30420/nurse_profile_thumbnail_foto_1603865863.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30399/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30399/nurse_profile_thumbnail_foto_1603788314.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30346/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30346/nurse_profile_thumbnail_foto_1603372107.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30290/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30290/nurse_profile_thumbnail_foto_1603144038.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30229/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30229/nurse_profile_thumbnail_foto_1602752625.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30223/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30223/nurse_profile_thumbnail_foto_1602707327.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30189/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30189/nurse_profile_thumbnail_foto_1602584741.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30169/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30169/nurse_profile_thumbnail_foto_1602498793.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30120/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30120/nurse_profile_thumbnail_foto_1604564687.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30047/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30047/nurse_profile_thumbnail_foto_1601751748.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/30023/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30023/nurse_profile_thumbnail_foto_1601622627.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29982/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29982/nurse_profile_thumbnail_foto_1601423594.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29908/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29908/nurse_profile_thumbnail_foto_1601221347.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29896/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29896/nurse_profile_thumbnail_foto_1601068524.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29679/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29679/nurse_profile_thumbnail_foto_1600515265.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29515/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29515/nurse_profile_thumbnail_foto_1599976485.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29321/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29321/nurse_profile_thumbnail_foto_1599406919.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29317/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29317/nurse_profile_thumbnail_foto_1599399404.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29273/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29273/nurse_profile_thumbnail_foto_1599215184.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29214/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29214/nurse_profile_thumbnail_foto_1599004223.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29178/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29178/nurse_profile_thumbnail_foto_1598934740.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29163/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29163/nurse_profile_thumbnail_foto_1599198074.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29162/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29162/nurse_profile_thumbnail_foto_1599658610.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29159/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29159/nurse_profile_thumbnail_foto_1598918849.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29132/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29132/nurse_profile_thumbnail_foto_1598856373.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29109/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29109/nurse_profile_thumbnail_foto_1598541195.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29094/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29094/nurse_profile_thumbnail_foto_1598469523.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29032/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29032/nurse_profile_thumbnail_foto_1598173786.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29015/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29015/nurse_profile_thumbnail_foto_1598050784.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/29007/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29007/nurse_profile_thumbnail_foto_1598021666.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28986/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28986/nurse_profile_thumbnail_foto_1597936804.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28979/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28979/nurse_profile_thumbnail_foto_1599244834.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28974/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28974/nurse_profile_thumbnail_foto_1597918766.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28929/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28929/nurse_profile_thumbnail_foto_1597761005.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28903/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28903/nurse_profile_thumbnail_foto_1597731993.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28898/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28898/nurse_profile_thumbnail_foto_1597676460.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28893/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28893/nurse_profile_thumbnail_foto_1597735411.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28884/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28884/nurse_profile_thumbnail_foto_1597647288.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28850/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28850/nurse_profile_thumbnail_foto_1597383881.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28833/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28833/nurse_profile_thumbnail_foto_1597308922.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28818/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28818/nurse_profile_thumbnail_foto_1597244195.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28788/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28788/nurse_profile_thumbnail_foto_1597094632.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28776/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28776/nurse_profile_thumbnail_foto_1597056127.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28773/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28773/nurse_profile_thumbnail_foto_1597049014.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28751/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28751/nurse_profile_thumbnail_foto_1596844210.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28750/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28750/nurse_profile_thumbnail_foto_1597783383.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28748/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28748/nurse_profile_thumbnail_foto_1596840675.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28730/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28730/nurse_profile_thumbnail_foto_1596742895.png
+debugger eval code:1:140
+Href: https://www.chrishanibaragwanathhospital.co.za/nurse_central/profiles/28688/public
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28688/nurse_profile_thumbnail_foto_1596808186.png
+debugger eval code:1:140
+undefined
+
