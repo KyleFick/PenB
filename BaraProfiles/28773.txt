@@ -1,0 +1,8 @@
+
+Name: Mosa
+Age: 22
+Location: Johannesburg
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28773/nurse_profile_thumbnail_foto_1597049014.png
+
+

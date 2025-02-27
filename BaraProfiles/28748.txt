@@ -1,0 +1,8 @@
+
+Name: Ntsoaki
+Age: 34
+Location: Pretoria
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28748/nurse_profile_thumbnail_foto_1596840675.png
+
+

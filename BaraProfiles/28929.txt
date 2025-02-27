@@ -1,0 +1,8 @@
+
+Name: Gugulethu
+Age: 27
+Location: Vryheid
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28929/nurse_profile_thumbnail_foto_1597761005.png
+
+

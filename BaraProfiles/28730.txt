@@ -1,0 +1,8 @@
+
+Name: Nombuso
+Age: 39
+Location: Boksburg
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28730/nurse_profile_thumbnail_foto_1596742895.png
+
+

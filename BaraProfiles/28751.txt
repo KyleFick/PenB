@@ -1,0 +1,8 @@
+
+Name: Zanele
+Age: 27
+Location: Johannesburg
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28751/nurse_profile_thumbnail_foto_1596844210.png
+
+

@@ -1,0 +1,8 @@
+
+Name: Gugu
+Age: 23
+Location: Boksburg
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29109/nurse_profile_thumbnail_foto_1598541195.png
+
+

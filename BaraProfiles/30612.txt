@@ -1,0 +1,5 @@
+Name: Pholiso
+Age: 27
+Location: Johannesburg
+Occupation: Nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30612/nurse_profile_thumbnail_foto_1605012635.png

@@ -1,0 +1,8 @@
+
+Name: Takalani
+Age: 28
+Location: Messina
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28898/nurse_profile_thumbnail_foto_1597676460.png
+
+

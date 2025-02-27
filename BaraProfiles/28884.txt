@@ -1,0 +1,8 @@
+
+Name: Rigana
+Age: 23
+Location: Johannesburg
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/28884/nurse_profile_thumbnail_foto_1597647288.png
+
+

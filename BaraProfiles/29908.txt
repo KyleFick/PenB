@@ -1,0 +1,8 @@
+
+Name: Kate
+Age: 68
+Location: Soweto
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29908/nurse_profile_thumbnail_foto_1601221347.png
+
+

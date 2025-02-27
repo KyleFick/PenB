@@ -1,0 +1,5 @@
+Name: Thubelihle
+Age: 24
+Location: Pietermaritzburg
+Occupation : Nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/30535/nurse_profile_thumbnail_foto_1604572278.png

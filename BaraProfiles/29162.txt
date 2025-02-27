@@ -1,0 +1,8 @@
+
+Name: Phumzile
+Age: 30
+Location: Springs
+Occupation: nurse
+Img Src: https://www.chrishanibaragwanathhospital.co.za/uploads/user/foto/29163/nurse_profile_thumbnail_foto_1599198074.png
+
+
