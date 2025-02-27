@@ -18,6 +18,7 @@ Update() {
     echo "$info" >> "$file"
     echo "$(date): Added info tp $file" >> "$LOG_FILE"
     echo "Info added to $file"
+    clear
 }
 
 # Function to view all personnel
@@ -57,12 +58,14 @@ READB() {
 }
 
 ViewLogs() {
+	clear
 	if [ -f "$LOG_FILE" ]; then
 		echo "Showing edit logs:"
 		cat "$LOG_FILE"
 	else
 		echo "No logs found."
 	fi
+	clear
 }
 
 # Main menu
